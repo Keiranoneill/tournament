@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../login-project/.venv"
+		},
+		{
+			"path": "../login-project/flask"
+		},
+		{
+			"path": "../login-project/src"
+		}
+	]
+}
